@@ -1,0 +1,23 @@
+
+[AtCoder]
+  ContestID = "abc153"
+  ContestURL = "https://atcoder.jp/contests/abc153"
+  TaskID = "abc153_c"
+  TaskName = "C - Fennec vs Monster"
+  TaskURL = "https://atcoder.jp/contests/abc153/tasks/abc153_c"
+
+[Environment]
+  BuildCmd = ""
+  BuildCmdOnDocker = ""
+  CleanCmd = ""
+  Cmd = "python3 -B main.py"
+  CmdOnDocker = "python -B main.py"
+  DockerImage = "ghcr.io/sachaos/atcoder-python3:v1.0.0"
+  Key = "python3"
+  Language = "Python3 (3.8.2)"
+  LanguageCode = "4006"
+  Note = ""
+  SrcDir = ""
+  SrcName = "main.py"
+  Template = "internal/python3/main.py"
+  WorkingDir = ""
